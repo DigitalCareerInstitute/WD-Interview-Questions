@@ -1,6 +1,6 @@
 # Interview Questions Preperation
 
-## Read the Questions and Answer them in ANSWER.md
+## Read the Questions and Answer them in ANSWERS.md
 ## Write your answer after ## 
 ### example:
 ```
